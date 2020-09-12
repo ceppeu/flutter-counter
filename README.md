@@ -1,16 +1,20 @@
-# contador
 
-A new Flutter project.
+El proyecto cubre:
+-   Stateless
+    
+-   Stateful
+    
+-   Scaffolds
+    
+-   Estilos
+    
+-   Botones
+    
+-   Manejo de estado básico
+    
+-   Y más
+    
 
-## Getting Started
+Esta sección tiene por objetivo comprender el código propio de Flutter explicando absolutamente cada línea de código que escribiremos.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+También comenzaremos con las ideas sugeridas para el manejo de un proyecto de Flutter y sobre todo, dar los primeros pasos en Flutter propiamente.
